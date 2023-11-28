@@ -1,0 +1,40 @@
+{
+	"schemaVersion": 1,
+	"id": "learning",
+	"version": "${version}",
+	"name": "Learning",
+	"description": "This is an example description! Tell everyone what your mod is about!",
+	"authors": [
+		"Figgnus"
+	],
+	"contact": {
+		"homepage": "https://fabricmc.net/",
+		"sources": "https://github.com/FabricMC/fabric-example-mod"
+	},
+	"license": "MIT",
+	"icon": "assets/learning/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"net.figgnus.learning.Learning"
+		],
+		"client": [
+			"net.figgnus.learning.LearningClient"
+		],
+		"fabric-datagen": [
+			"net.figgnus.learning.LearningDataGenerator"
+		]
+	},
+	"mixins": [
+		"learning.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.14.25",
+		"minecraft": "~1.20.1",
+		"java": ">=17",
+		"fabric-api": "*"
+	},
+	"suggests": {
+		"another-mod": "*"
+	}
+}

@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    "learning:ruby_block",
+    "learning:ruby_ore",
+    "learning:nether_ruby_ore",
+    "learning:deepslate_ruby_ore",
+    "learning:end_ruby_ore",
+    "learning:raw_ruby_block"
+
+
+  ]
+}

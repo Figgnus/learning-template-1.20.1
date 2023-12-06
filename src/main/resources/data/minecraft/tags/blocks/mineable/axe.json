@@ -1,0 +1,7 @@
+{
+  "replace": false,
+  "values": [
+    "learning:ruby_block",
+    "learning:raw_ruby_block"
+  ]
+}

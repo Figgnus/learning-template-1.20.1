@@ -5,6 +5,10 @@
 
   "block.learning.ruby_block": "Block of Ruby",
   "block.learning.raw_ruby_block": "Block of Raw Ruby",
+  "block.learning.ruby_ore": "Ruby Ore",
+  "block.learning.deepslate_ruby_ore": "Deepslate Ruby Ore",
+  "block.learning.end_ruby_ore": "End Ruby Ore",
+  "block.learning.nether_ruby_ore": "Nether Ruby Ore",
 
   "itemgroup.ruby": "Ruby Group"
 }

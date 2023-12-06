@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "learning:raw_ruby_block",
+    "learning:nether_ruby_ore",
+    "learning:ruby_ore"
+  ]
+}

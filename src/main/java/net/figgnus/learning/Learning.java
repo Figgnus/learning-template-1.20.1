@@ -2,6 +2,7 @@ package net.figgnus.learning;
 
 import net.fabricmc.api.ModInitializer;
 
+import net.figgnus.learning.block.ModBlocks;
 import net.figgnus.learning.item.ModItemGroups;
 import net.figgnus.learning.item.ModItems;
 import org.slf4j.Logger;
@@ -15,5 +16,6 @@ public class Learning implements ModInitializer {
 	public void onInitialize() {
 		ModItemGroups.registerItemGroups();
 		ModItems.registerModItems();
+		ModBlocks.registerModBlocks();
 	}
 }

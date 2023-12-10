@@ -2,6 +2,8 @@
   "item.learning.ruby": "Ruby",
   "item.learning.raw_ruby": "Raw Ruby",
 
+  "item.learning.metal_detector": "Metal Detector",
+
 
   "block.learning.ruby_block": "Block of Ruby",
   "block.learning.raw_ruby_block": "Block of Raw Ruby",
@@ -9,6 +11,8 @@
   "block.learning.deepslate_ruby_ore": "Deepslate Ruby Ore",
   "block.learning.end_ruby_ore": "End Ruby Ore",
   "block.learning.nether_ruby_ore": "Nether Ruby Ore",
+
+  "block.learning.sound_block": "Sound Block",
 
   "itemgroup.ruby": "Ruby Group"
 }

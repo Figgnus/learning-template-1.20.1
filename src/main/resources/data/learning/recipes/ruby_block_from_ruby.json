@@ -3,7 +3,7 @@
   "category": "misc",
   "pattern": [
     "###",
-    "###",
+    "# #",
     "###"
   ],
   "key": {
@@ -12,6 +12,6 @@
     }
   },
   "result": {
-    "item": "learning:ruby_block"
+    "item": "learning:sound_block"
   }
 }

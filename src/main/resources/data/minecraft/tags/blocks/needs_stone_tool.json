@@ -1,6 +1,7 @@
 {
   "replace": false,
   "values": [
-    "learning:ruby_block"
+    "learning:ruby_block",
+    "learning:sound_block"
   ]
 }

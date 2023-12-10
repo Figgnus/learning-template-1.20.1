@@ -14,10 +14,15 @@ import net.minecraft.world.World;
 
 public class SoundBlock extends Block {
 
+    //creating custom blocks that plays sound on use
+
+    //extend fix
     public SoundBlock(Settings settings) {
         super(settings);
     }
 
+
+    //method override
     @Override
     public ActionResult onUse(BlockState state, World world, BlockPos pos,
                               PlayerEntity player, Hand hand, BlockHitResult hit) {

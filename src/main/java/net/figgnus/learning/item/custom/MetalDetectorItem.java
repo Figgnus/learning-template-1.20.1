@@ -12,10 +12,13 @@ import net.minecraft.util.math.BlockPos;
 
 public class MetalDetectorItem extends Item {
 
+    //extends fix
     public MetalDetectorItem(Settings settings) {
         super(settings);
     }
 
+
+    //method override
     @Override
     public ActionResult useOnBlock(ItemUsageContext context) {
 
